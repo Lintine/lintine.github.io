@@ -14,10 +14,16 @@
   font-style: normal;
 }
 
+/*
 a {
   font-family: "Comfortaa";
 }
+*/
 
 * {
   font-family: "Montserrat";
+}
+
+.site-title {
+  font-family: "Comfortaa";
 }
