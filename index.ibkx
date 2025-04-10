@@ -1,0 +1,8 @@
+init
+meta
+  meta.title "Lintine"
+meta.end
+content
+  heading1 "WIP"
+  paragraph "Check back later"
+content.end

@@ -4,10 +4,12 @@ email: lintine@pm.me
 url: https://lintine.github.io
 description: "We're an international developer team working hard to make the best open source software for you."
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
+# Plugins and themes
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
+
 
 # Footer settings
 footer: Lintine
@@ -15,12 +17,15 @@ footer: Lintine
 # Social networks usernames
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/Lintine_
   - title: youtube
     url: https://www.youtube.com/channel/UCnCAUZ6YjhZrAeeeZH1rIsQ
   - title: github
     url: https://github.com/Lintine
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Optional parameters
+email: lintine@pm.me
+location: Switzerland
+skin: midnight
+author: Lintine GS2EB
+lang: en
