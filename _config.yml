@@ -2,7 +2,7 @@
 title: λintine
 email: lintine@pm.me
 url: https://lintine.github.io
-description: "We're an international developer team working hard to make the best open source software for you."
+description: "."
 
 # Plugins and themes
 plugins:
@@ -29,3 +29,4 @@ location: Switzerland
 skin: midnight
 author: Lintine GS2EB
 lang: en
+subscribe: false
