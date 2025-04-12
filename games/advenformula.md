@@ -3,6 +3,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 <link rel=stylesheet href="/main.css">
 
-# <center> ![Advenformula logo](/assets/logo.advenformula.game.png) </center>
+# <center><img src="/assets/logo.advenformula.game.png"></img></center>
 ##### <center> made in scratch </center>
 
