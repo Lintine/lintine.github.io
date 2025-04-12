@@ -1,5 +1,6 @@
 ---
 title: games/advenformula
+description: "αδvεnφormuλα. mατh sκιλλs rεqυιrεd."
 ---
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -11,3 +12,5 @@ title: games/advenformula
 <center>αδvεnφormuλα</center>
 ##### <center> made in scratch </center>
 
+# ⚠️ This section is not finished!
+The game is currently not quite in a finished state, so no information has been made known about it.
